@@ -149,6 +149,9 @@ nav ul li a {
 .popular-content >  p {
     margin-bottom: 30px;
 }
+.popular-content ul {
+    padding-left: 15px;
+}
 .popular-content li {
     margin-bottom: 20px;
 }
